@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Low tier - scavenger, thrasher -->
+  <MehalitScout.label>Разведчик</MehalitScout.label>
+  <MehalitScout.labelPlural>Разведчики</MehalitScout.labelPlural>
+  <MehalitWarrior.label>Воитель</MehalitWarrior.label>
+  <MehalitWarrior.labelPlural>Воители</MehalitWarrior.labelPlural>
+  <MehalitDestroyer.label>Разрушитель</MehalitDestroyer.label>
+  <MehalitDestroyer.labelPlural>Разрушители</MehalitDestroyer.labelPlural>
+  <MehalitWarriorE.label>Элитный воитель</MehalitWarriorE.label>
+  <MehalitWarriorE.labelPlural>Элитные воители</MehalitWarriorE.labelPlural>
+  <MehalitWarriorE_Defender.label>Элитный защитник</MehalitWarriorE_Defender.label>
+  <MehalitWarriorE_Defender.labelPlural>Элитные защитник</MehalitWarriorE_Defender.labelPlural>
+  <MehalitWarriorL.label>Лидер</MehalitWarriorL.label>
+  <MehalitWarriorL.labelPlural>Лидер</MehalitWarriorL.labelPlural>
+  <Mehalit_Trader.label>Торговец</Mehalit_Trader.label>
+  <Mehalit_Trader.labelPlural>Торговцы</Mehalit_Trader.labelPlural>
+</LanguageData>

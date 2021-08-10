@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <MultiCloth.label>Мультиткань</MultiCloth.label>
+  <MultiCloth.description>Низкокачественная ткань, получаемая газовой обработкой кож/шкур/ткани. Эта ткань непригодна для создания одежды, но нужна для создания ткани и синткани.</MultiCloth.description>
+  <ThermoCloth.label>Термоткань</ThermoCloth.label>
+  <ThermoCloth.description>Ткань, отлично защищающая от жары и холода. Создается из синткани и шерсти.</ThermoCloth.description>
+  <MechaCloth.label>Меха-ткань</MechaCloth.label>
+  <MechaCloth.description>Высокотехнологичная ткань, создаваемая из гиперткани и дьяволоткани. Обладает отличными защитными свойствами и неплохой теплоизоляцией.</MechaCloth.description>
+  <Apparel_ThermalSuitMeh.label>Термо-костюм</Apparel_ThermalSuitMeh.label>
+  <Apparel_ThermalSuitMeh.description>Полностью покрывает тело, сохраняя его температуру. Отлично защищает от тепла и холода, но имеет низкие показатели защиты от урона.</Apparel_ThermalSuitMeh.description>
+  <Apparel_ProtectiveSuitMeh.label>Защитный костюм</Apparel_ProtectiveSuitMeh.label>
+  <Apparel_ProtectiveSuitMeh.description>Защищает все тело от различных типов урона. Немного снижает скорость работы и передвижения, слабо защищает от жары и холода.</Apparel_ProtectiveSuitMeh.description>
+  <Apparel_WorkSuitMeh.label>Рабочий экзо-костюм</Apparel_WorkSuitMeh.label>
+  <Apparel_WorkSuitMeh.description>Покрывает все тело, оснащен подобием сервоприводов. Повышает скорость работы и передвижения, но имеет низкие показатели защиты.</Apparel_WorkSuitMeh.description>
+  <Apparel_TrainBelt.label>Учебный пояс</Apparel_TrainBelt.label>
+  <Apparel_TrainBelt.description>Крепится на пояс и подключается к спинному мозгу. Способствует быстрому усвоению информации и улучшению мышечной памяти, а значит увеличивает фактор обучения всему. Побочные эффекты: снижает скорость работы, скорость поглощения пищи, увеличивает порог нервного срыва. Учебный пояс нужен колонистам с низким уровнем какого-либо навыка, чтобы как можно быстрее его развить.</Apparel_TrainBelt.description>
+  <Apparel_ArmorMechalitMeh.label>Броня "Мехалит"</Apparel_ArmorMechalitMeh.label>
+  <Apparel_ArmorMechalitMeh.description>Визитная карточка фракции "Мехалит". Высокотехноголичная броня с элементами жизнеобеспечения, контролируемыми механитами. Значительно повышает выживаемость носителя и улучшает многие его характеристики.</Apparel_ArmorMechalitMeh.description>
+  <Apparel_STacticalHelmetMeh.label>Тактический шлем</Apparel_STacticalHelmetMeh.label>
+  <Apparel_STacticalHelmetMeh.description>Усовершенствованный шлем, оснащенный визором. Не только отлично защищает голову, но и улучшает показатели стрельбы носителя.</Apparel_STacticalHelmetMeh.description>
+  <Apparel_HelmetPumaMeh.label>Шлем "Пума"</Apparel_HelmetPumaMeh.label>
+  <Apparel_HelmetPumaMeh.description>Специальный шлем, ранее использовавшийся фракцией "Мехалит" для рейдов на низкоразвитые цивилизации. Шлем вселяет ужас во врагов и наполняет носителя уверенностью. Шлем улучшает показатели навыков ближнего боя, оснащен мощной пси-защитой, но имеет посредственные показатели защиты, если сравнивать со шлемом силовой брони.</Apparel_HelmetPumaMeh.description>
+  <Apparel_HelmetMechalitMeh.label>Шлем "Мехалит"</Apparel_HelmetMechalitMeh.label>
+  <Apparel_HelmetMechalitMeh.description>Высокотехнологичный шлем со встроенным визором, небольшой пси-защитой и вспомогательными программами. Отлично защищает голову от всех типов урона. Вспомогательные программы, встроенные в визор, помогают лучше стрелять и быстрее обучаться.</Apparel_HelmetMechalitMeh.description>
+  <!-- ОРУЖИЕ -->
+  <Gun_PistolAmber.label>Пистолет "Янтарь"</Gun_PistolAmber.label>
+  <Gun_PistolAmber.description>Элитный пистолет, покрытый золотом. Выдавался офицерам фракции "Мехалит" за хорошую службу. Имеет неплохой урон и высокую скорострельность.</Gun_PistolAmber.description>
+  <Gun_AutopistolNeptune.label>Автомат "Нептун"</Gun_AutopistolNeptune.label>
+  <Gun_AutopistolNeptune.description>Распространенное оружие в рядах фракции "Мехалит", часто использовался, когда нужно было вывести из строя цель, при этом не убивая. Создается из дешевых ресурсов, наносит низкий урон, имеет высокую скорострельность.</Gun_AutopistolNeptune.description>
+  <Gun_PlasmaGun.label>Плазмоган</Gun_PlasmaGun.label>
+  <Gun_PlasmaGun.description>Двухствольная винтовка, стреляющая плазмой. Наносит средний урон на большом расстоянии. Нередко применялась для охоты.</Gun_PlasmaGun.description>
+  <Gun_MagmaGun.label>"Вспышка"</Gun_MagmaGun.label>
+  <Gun_MagmaGun.description>Винтовка, стреляющая стружкой раскаленного металла. При попадании в цель может вызвать ее возгарание.</Gun_MagmaGun.description>
+  <Gun_ShotgunDolphin.label>Дробовик "Дельфин"</Gun_ShotgunDolphin.label>
+  <Gun_ShotgunDolphin.description>Мощный дробовик, применявшийся при штурмах вражеских поселений. Наносит огромный урон на небольшом расстоянии.</Gun_ShotgunDolphin.description>
+  <Gun_MechaRifle.label>Меха-винтовка</Gun_MechaRifle.label>
+  <Gun_MechaRifle.description>Снайперская винтовка фракции "Мехалит". Отличается хорошей скорострельностью и средним уроном.</Gun_MechaRifle.description>
+  <Gun_TeachGun.label>Учебная винтовка</Gun_TeachGun.label>
+  <Gun_TeachGun.description>Специальная учебная винтовка. Имеет низкий дпс, но при этом она сама наводится на цель, практически без участия владельца. Благодаря очень высокой скорострельности позволяет быстро повышать навык стрельбы владельца, отлично подойдет для пешек с низким навыком стрельбы. Не эффективна против бронированных целей.</Gun_TeachGun.description>
+  <MeleeWeapon_PlasmBlade.label>"Рапира"</MeleeWeapon_PlasmBlade.label>
+  <MeleeWeapon_PlasmBlade.description>Легкий плазменный клинок. Не наносит больших повреждений, но имеет высокую скорость атаки. Благодаря встроенным микро-турбинам, клинок увеличивает скорость передвижения владельца.</MeleeWeapon_PlasmBlade.description>
+  <Gun_MachineGunEclipse.label>Пулемет "Затмение"</Gun_MachineGunEclipse.label>
+  <Gun_MachineGunEclipse.description>Реликвия фракции "Мехалит". Очень редкое оружие, обладающее уникальными свойствами. Требует много редких артефактов. Наносит огромный урон, вызывает частые нервные срывы у обладателя, т.к. состоит из множества пси-артефактов.</Gun_MachineGunEclipse.description>
+  <Gun_Lord.label>Пушка "Лорд"</Gun_Lord.label>
+  <Gun_Lord.description>Мощная пушка, стреляющая сгустками чистой энергии. Имеет низкий радиус стрельбы, но очень высокий урон. Надевается на руку и благодаря слаженной работе механитов, заряжаемых энергоячейками,  улучшает параметры владельца.</Gun_Lord.description>
+  <Gun_MachineGunEclipseGold.label>Пулемет "Затмение Голд"</Gun_MachineGunEclipseGold.label>
+  <Gun_MachineGunEclipseGold.description>Реликвия фракции "Мехалит". Очень редкое оружие, обладающее уникальными свойствами. Требует много редких артефактов. "Золотая" версия сильнее обычного пулемета "Затмение". Но его нельзя получить никаким путем. Его достойны носить только элитные защитники фракции "Мехалит</Gun_MachineGunEclipseGold.description>
+  <Gun_Gaston.label>"Гастон"</Gun_Gaston.label>
+  <Gun_Gaston.description>Мощный плазменный карабин. Отлично подходит для стрельбы на среднем расстоянии. Оснащен острым плазменным лезвием для рукопашного боя.</Gun_Gaston.description>
+</LanguageData>
