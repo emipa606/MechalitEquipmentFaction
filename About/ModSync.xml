@@ -2,7 +2,7 @@
 <ModSyncNinjaData>
   <ID>cbcacee6-af96-4173-9cb8-8b0bcec7fbf7</ID>
   <ModName>Mechalit Equipment + Faction (Continued)</ModName>
-  <Version>1.0.0.0</Version>
+  <Version>1.0.1.0</Version>
   <SaveBreaking>False</SaveBreaking>
   <Host name="Github">
     <Owner>emipa606</Owner>
@@ -12,7 +12,3 @@
     <Branch>master</Branch>
   </Host>
 </ModSyncNinjaData>
-
-
-
-
